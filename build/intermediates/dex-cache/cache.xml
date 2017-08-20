@@ -1,2 +1,203 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/.android/build-cache/b87270ede34f796458f82e6e751e052147030661/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fcc39524f2fdf58bed0a63e6e9e4d2cc080593b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santanuchakraborty/.android/build-cache/b87270ede34f796458f82e6e751e052147030661/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/pre-dexed/release/classes_fcc39524f2fdf58bed0a63e6e9e4d2cc080593b9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/.android/build-cache/79203ccc9f310fab54af4db805aec70079ac62b7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d415abdd5fb64eb8d664363a6d0cada974627089/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/.android/build-cache/fc02dde452620eb8eed7bc5b95f3eefc0ff75989/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ae3f17f4e812a88f4aeb012e13f5aa698341822/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santanuchakraborty/.android/build-cache/fc02dde452620eb8eed7bc5b95f3eefc0ff75989/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/pre-dexed/release/classes_0ae3f17f4e812a88f4aeb012e13f5aa698341822.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santanuchakraborty/.android/build-cache/79203ccc9f310fab54af4db805aec70079ac62b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/pre-dexed/release/classes_d415abdd5fb64eb8d664363a6d0cada974627089.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8011dcc6197e376b24c04935264712dbb96584e6">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_895d0a38b29930c7385472ddde7f197ff54a660a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/.android/build-cache/dc0dfe7d1820bee2a015a0e1171aaea7be32245c/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_d390c5e6c2cfacb04a735b7e459b06828c9d71bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santanuchakraborty/.android/build-cache/ff1d48ce7ca6d65bf3d4251534664f1ee2f6de4e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/pre-dexed/release/classes_231a3e3d43422b2631d63b88de66d6968ed9444d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/.android/build-cache/f03ed8c7cac46b4399571f4c007939c920287df3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_382bfdea3e0ff37902ecd6fc9ff128faf88ec1b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/.android/build-cache/dc0dfe7d1820bee2a015a0e1171aaea7be32245c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4032794b27ebf42f7027e19c1d07f0891de030ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santanuchakraborty/.android/build-cache/dc0dfe7d1820bee2a015a0e1171aaea7be32245c/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/pre-dexed/release/internal_impl-23.3.0_d390c5e6c2cfacb04a735b7e459b06828c9d71bb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_8e1a93b2d4e12e041673e51bb4a8c3b628b3ac95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_44013cb5cddfc55f43b26f33d5e0fc8c78e2beba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/.android/build-cache/ff1d48ce7ca6d65bf3d4251534664f1ee2f6de4e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_231a3e3d43422b2631d63b88de66d6968ed9444d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santanuchakraborty/.android/build-cache/dc0dfe7d1820bee2a015a0e1171aaea7be32245c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/pre-dexed/release/classes_4032794b27ebf42f7027e19c1d07f0891de030ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santanuchakraborty/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_8e1a93b2d4e12e041673e51bb4a8c3b628b3ac95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santanuchakraborty/.android/build-cache/e6558710aad58ff39d428197dc60567c24115ad3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/pre-dexed/release/classes_13777330c92623d19f3192b7852f732ea96ffb0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santanuchakraborty/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/pre-dexed/release/support-annotations-23.3.0_44013cb5cddfc55f43b26f33d5e0fc8c78e2beba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/.android/build-cache/e6558710aad58ff39d428197dc60567c24115ad3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13777330c92623d19f3192b7852f732ea96ffb0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santanuchakraborty/.android/build-cache/f03ed8c7cac46b4399571f4c007939c920287df3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/pre-dexed/release/classes_382bfdea3e0ff37902ecd6fc9ff128faf88ec1b0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/santanuchakraborty/AndroidStudioPlayStore/NewsGreenland/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7af72386319708052efd566abb0529c921232e9f/classes.dex" />
+    </item>
+
+</items>
