@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News GreenLand</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-0664570763252260/3326522424</string>
+
+</resources>
